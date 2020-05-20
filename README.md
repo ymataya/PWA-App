@@ -11,9 +11,7 @@ Created an app that tracks the user's expense budget, while either being online 
 * Webpack
 
 ## Usage:
-Users can add or subtract money based on their expense.
-
-## Contributing:
+Users can add or subtract money based on their expense and they can see a graph of their spending.
 
 ## Project:
 ![Preview](/preview.png)
