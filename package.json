@@ -23,7 +23,7 @@
     "@babel/preset-env": "^7.9.6",
     "babel-loader": "^8.1.0",
     "compression": "^1.7.4",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongoose": "^5.9.15",
     "morgan": "^1.10.0",
     "webpack-pwa-manifest": "^4.2.0"
